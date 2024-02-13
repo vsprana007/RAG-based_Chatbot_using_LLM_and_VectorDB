@@ -12,7 +12,7 @@ b. setup environment
     1. open cmd in the project directory
 
     2. run command :"$ conda create --name <env> --file <requirements.txt>"
-    
+
 
                 OR
 
@@ -21,6 +21,8 @@ b. setup environment
     3. activate conda environment 
     4. install requiremnts.txt usnig : "conda install --file requirements.txt"
 
-c. run project
+c. run project:
+
     1. activate conda environment
+    
     2. to run the project execute command: "streamlit run main.py"
